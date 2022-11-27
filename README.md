@@ -9,7 +9,7 @@ I'm Zahra From Tunisia, I'm a junior front-end developer 👨‍💻 Passionate 
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about: tech, art, anime [Naruto]
 - 😄 Pronouns: she/her
-- ⚡ Techs: REACT JS, Javascript, SASS, CSS, Gatsby, Material UI, APIs, NPM, HTML, Bootstrap
+- ⚡ Techs: REACT JS, Javascript, SASS, CSS, Gatsby, Material UI, tailwind CSS, Strapi, APIs, NPM, HTML, Bootstrap
 
 
 ---
