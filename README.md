@@ -5,11 +5,11 @@
 
 I'm Zahra From Tunisia, I'm a front-end developer 👨‍💻 Passionate about web developement and design. Always eager to learn and share knowledge
 
-- 🔭 I’m currently working on NEXT JS, ANGULAR JS and REACT JS websites and dashboards.
-- 🌱 I’m currently learning Next Js 13, React JS, Angulr JS 15, Typescript, Gatsby, Javascript.
+- 🔭 I’m currently working on ANGULAR and REACT.
+- 🌱 I’m currently learning Next, React, Angulr, Typescript, Gatsby, Typescript.
 - 💬 Ask me about: tech, art.
 - 😄 Pronouns: she/her
-- ⚡ Techs: REACT JS, Angular, Next Js, Javascript, SASS, CSS, Gatsby, Material UI, Typescript,  tailwind CSS, Strapi, APIs, NPM, HTML, Bootstrap
+- ⚡ Techs: REACT, Angular, Next, Javascript, SASS, CSS, Gatsby, Material UI, Typescript,  tailwind CSS, Strapi, APIs, NPM, HTML, Bootstrap
 
 
 ---
